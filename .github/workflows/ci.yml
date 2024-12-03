@@ -1,0 +1,7 @@
+sonar.projectKey=CI_CD_Example
+sonar.projectName=CI/CD Example Project
+sonar.projectVersion=1.0
+sonar.sourceEncoding=UTF-8
+sonar.sources=.
+sonar.host.url=http://localhost:9000
+sonar.login=sqa_0a8d6c6b95a26308b650a27331160ffbae8a23fb
